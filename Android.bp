@@ -435,6 +435,7 @@ cc_prebuilt_library_shared {
                 "vendor.mediatek.hardware.pq_aidl-V7-ndk",
                 "libcomposer_ext",
                 "libui",
+                "libui_shim",
                 "libgralloc_extra",
                 "libbinder_ndk",
                 "libbinder",
